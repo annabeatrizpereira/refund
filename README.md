@@ -4,7 +4,7 @@ Refund é uma aplicação web de solicitação de reembolso e listagem de despes
 Este projeto foi desenvolvido durante a formação de **JavaScript**, como parte do processo de especialização em desenvolvimento web.  
 
 <p align="center">
-  <img src="refund/img/Thumbnail.png" alt="Preview do projeto Refund" width="600px">
+  <img src="img/Thumbnail.png" alt="Preview do projeto Refund" width="600px">
 </p>
 
 
